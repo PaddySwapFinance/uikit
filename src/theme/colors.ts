@@ -23,6 +23,7 @@ export const lightColors: Colors = {
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   tertiary: "#EFF4F5",
+  title: "#41aa29", //
   text: "#1B1464",
   textDisabled: "#BDC2C4",
   textSubtle: "#1B1464",
@@ -45,6 +46,7 @@ export const darkColors: Colors = {
   input: "#483F5A",
   primaryDark: "#8f8104",
   tertiary: "#28444A", //
+  title: "#41aa29", //
   text: "#fcfae2", //
   textDisabled: "#717161", //
   textSubtle: "#52D784", //
